@@ -1,5 +1,5 @@
 # CIM-CSS-Plug-in
-The resulting CIM-CSS Graphical Editor plug-in of my PhD's thesis: building a graphical editor based on the CIM-CSS methodology(Prof. Jun Sang), using the Eclipse Modeling Framework and Graphical Modeling Framework
+
 
 This .rar file contains the necessary jar artifacts to install the CIM-CSS plug-in into Eclipse.
 
@@ -16,3 +16,6 @@ This .rar file contains the necessary jar artifacts to install the CIM-CSS plug-
     install the CIM-CSS plug-in
 
     shut down Eclipse and restart
+
+
+The resulting CIM-CSS Graphical Editor plug-in of my PhD's thesis: building a graphical editor based on the CIM-CSS methodology(Prof. Jun Sang), using the Eclipse Modeling Framework and Graphical Modeling Framework
