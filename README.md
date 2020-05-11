@@ -5,13 +5,13 @@ This .rar file contains the necessary jar artifacts to install the CIM-CSS plug-
 
     Download the .zip
 
-    In Eclipse, go to Help->Install New Software...
+    In Eclipse, go to Help --> Install New Software...
 
     Add...
 
     Archive...
 
-    search the .zip file on your system
+    search the .rar file on your system
 
     install the CIM-CSS plug-in
 
