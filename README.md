@@ -1,7 +1,7 @@
 # CIM-CSS-Plug-in
 
 
-This .rar file contains the necessary jar artifacts to install the CIM-CSS plug-in into Eclipse.
+This .zip file contains the necessary jar artifacts to install the CIM-CSS plug-in into Eclipse.
 
     Download the .zip
 
@@ -11,7 +11,7 @@ This .rar file contains the necessary jar artifacts to install the CIM-CSS plug-
 
     Archive...
 
-    search the .rar file on your system
+    search the .zip file on your system
 
     install the CIM-CSS plug-in
 
